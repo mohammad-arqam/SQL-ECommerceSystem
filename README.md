@@ -4,21 +4,14 @@ This project is a Java and SQL Server–based application that simulates an e-co
 
 🚀 Features
 
-E-Commerce Backend
-
 Product catalog with hundreds of real scraped entries
-
-products_sql_server
 
 Customers, orders, and order line items modeled in SQL
 
 Province-based tax rates with realistic data
 
-products_sql_server
-
 Support for product views and purchase history tracking
 
-Java Application
 
 Core business logic implemented in project.java
 
@@ -29,8 +22,6 @@ Configurable authentication via auth.cfg
 Portfolio Frontend
 
 Personal portfolio system configurable via portfolio.js
-
-portfolio
 
 Sections for skills, education, work experience, projects, and achievements
 
@@ -53,8 +44,6 @@ products_sql_server
 JDBC – database connectivity
 
 HTML/CSS/JS (React-style config) – portfolio frontend
-
-portfolio
 
 Makefile – build automation
 
